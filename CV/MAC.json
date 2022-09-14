@@ -1,0 +1,162 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Daniel",
+      "surnames": "López Pajares",
+      "title": "Hard worker and student",
+      "description": "I’m a Big Data, data engineering and graphic design passionate.\n\nI’m currently studying and developing my skills as a junior data engineer. I normally work with Python as my main language and SQL for query language as well as other tools such as PySpark, Pandas and NumPy, Databricks and Git among others, which I’m using to work on my personal GitHub project. Not only that but, I’m a self-taught learner in Korean and most of my English level, I also took part as a volunteer on a charity market. Furthermore, I consider myself as a really curious person that loves to learn and keep improving myself.",
+      "avatar": {
+        "alt": "IMG_20211112_091832.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/54aecf34-9c01-47c4-ac05-a45d8a27e18e_img_20211112_091832.jpg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/icharo-tb"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/19949114/icharo-tb"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/danielopezpajares/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Overall, artist and creative",
+        "fact": "I love everything related to art, I've drawn a lot in short life and I keep doing it. I also love music, cinema and learning everything I'm able to."
+      },
+      {
+        "topic": "Volleyball Player",
+        "fact": "I played volleyball for 2 years during Bachillerato, being part of the school's team. My position was mainly rotative, but I focused a lot more on being libero."
+      },
+      {
+        "topic": "Tekken 7 competitor and videogame enjoyer",
+        "fact": "I've been playing videogames since ever. I played from MMOs to Gacha games, but one of my favorite games and the one I took really seriously was Tekken 7, I participated in various tournaments held in Madrid just to challenge myself."
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PySpark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Databricks",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/danielopezpajares/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/19949114/icharo-tb"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Airflow",
+          "type": "technology"
+        },
+        {
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Scala",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Apple macOS",
+          "type": "technology"
+        },
+        {
+          "name": "SQLite",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
