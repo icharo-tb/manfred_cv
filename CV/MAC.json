@@ -104,6 +104,21 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "English Language Immersion Course 2018",
+        "startDate": "2018-07-01",
+        "finishDate": "2018-08-01",
+        "institution": {
+          "name": "Universidad Internacional Menendez Pelayo",
+          "description": "2 week English course with the objective of evaluating and improving our written, spoken and read English.",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/27/1423805c-d7e9-4d49-b0fc-c15db737d6c2_descarga.png"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Industrial Design (Furniture)",
