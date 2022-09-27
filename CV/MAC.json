@@ -106,6 +106,66 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Big Data course - \"Actualizate\" Study Program",
+        "startDate": "2021-04-01",
+        "institution": {
+          "name": "The Valley",
+          "description": "Big Data course of study focused on teaching big data techniques and tools used along the industry. ",
+          "image": {
+            "alt": "the-valley-vertical_sin-claim-e1486043852985.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/27/6397afe5-9f80-4fe4-bbe5-1fb98bdf9106_the-valley-vertical_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Databricks",
+            "type": "technology"
+          },
+          {
+            "name": "Google Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "Jupyter",
+            "type": "technology"
+          },
+          {
+            "name": "MatPlotlib",
+            "type": "technology"
+          },
+          {
+            "name": "Numpy",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "PySpark",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Qlik",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Tableau",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "English Language Immersion Course 2018",
         "startDate": "2018-07-01",
         "institution": {
