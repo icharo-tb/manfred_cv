@@ -101,6 +101,42 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Industrial Design (Furniture)",
+        "startDate": "2017-09-01",
+        "finishDate": "2021-05-01",
+        "institution": {
+          "name": "ArteDiez",
+          "description": "Superior Degree based on designing and making of furniture. The 4 year course cover from basic design, tool usage, furniture history, workshops and more.\n\nI had the opportunity of being leader of a team while we were o this degree. The project consisted of designing and bilding a piece of furniture for a school that gathers people with special needs in Avila. Our project was based on a noughts and crosses game where we combined weight on the game pieces as well as the strategy of the game itself.",
+          "URL": "https://artediez.es/",
+          "image": {
+            "alt": "artediez-logo-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/27/9a6b42dc-b181-424b-891a-f079e38736e8_artediez-logo-1.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "3D Studio Max",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe Illustrator",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe InDesign",
+            "type": "technology"
+          },
+          {
+            "name": "Rhinoceros",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
