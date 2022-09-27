@@ -151,10 +151,6 @@
         {
           "name": "Apple macOS",
           "type": "technology"
-        },
-        {
-          "name": "SQLite",
-          "type": "technology"
         }
       ]
     }
