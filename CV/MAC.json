@@ -107,13 +107,14 @@
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "Big Data course - \"Actualizate\" Study Program",
-        "startDate": "2021-04-01",
+        "startDate": "2022-04-01",
         "institution": {
           "name": "The Valley",
           "description": "Big Data course of study focused on teaching big data techniques and tools used along the industry. ",
+          "URL": "https://www.hackeatufuturo.es/",
           "image": {
             "alt": "the-valley-vertical_sin-claim-e1486043852985.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/27/6397afe5-9f80-4fe4-bbe5-1fb98bdf9106_the-valley-vertical_.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/27/377b0e5c-334b-4f49-b9dc-d128ce5bd8d8_the-valley-vertical_.png"
           }
         },
         "linkedCompetences": [
