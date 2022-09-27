@@ -105,10 +105,9 @@
     "studies": [
       {
         "studyType": "certification",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "English Language Immersion Course 2018",
         "startDate": "2018-07-01",
-        "finishDate": "2018-08-01",
         "institution": {
           "name": "Universidad Internacional Menendez Pelayo",
           "description": "2 week English course with the objective of evaluating and improving our written, spoken and read English.",
